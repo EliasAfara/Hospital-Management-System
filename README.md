@@ -5,28 +5,28 @@ Hospital Management System (HMS) is a web application which can help and improve
 - User module
 # Modules
 Admin:
-    - Dashboard: View the Patients, Doctors, Appointments
-    - Doctors: Add doctor’s specialization and mange doctors
-    (Add/Update/Delete)
-    - Users: View users detail and delete irrelevant/inactive users
-    - Patients: View patient’s details
-    - Appointment History: View all booked appointments
-    - Patient Search: Search patient with the help of patient name
-    and mobile number
-    - Specialization: Add a new doctor specialization to the hospital
-    database and view all of the available ones
+- Dashboard: View the Patients, Doctors, Appointments
+- Doctors: Add doctor’s specialization and mange doctors
+(Add/Update/Delete)
+- Users: View users detail and delete irrelevant/inactive users
+- Patients: View patient’s details
+- Appointment History: View all booked appointments
+- Patient Search: Search patient with the help of patient name
+and mobile number
+- Specialization: Add a new doctor specialization to the hospital
+database and view all of the available ones
     
 Doctor:
-    - Dashboard: view his/her own profile and online appointments
-    - Appointment History: view patient’s appointment history
-    - Patients: View/Add/Update patients
-    - Search: Search patient according to their name of mobile
-    number
+- Dashboard: view his/her own profile and online appointments
+- Appointment History: view patient’s appointment history
+- Patients: View/Add/Update patients
+- Search: Search patient according to their name of mobile
+number
     
 User:
-    - Dashboard: View his/her profile and appointments
-    - Book Appointment: Book his/her appointment
-    - Appointment History: View his/her own appointment history
+- Dashboard: View his/her profile and appointments
+- Book Appointment: Book his/her appointment
+- Appointment History: View his/her own appointment history
 
 # Objectives:
 - To computerize all details regarding patient details and doctor details.
