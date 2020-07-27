@@ -1,0 +1,19 @@
+User
+Email:user@gmail.com
+Password:123456
+----------
+Doctor 1
+Email:ena001@pu.edu.lb
+Password:123456
+
+Doctor 2
+Email:hass@email.com
+Password:eliasafara
+
+Doctor 3
+Email:hijaz@email.com
+Password:eliasafara
+----------
+Admin
+Username:admin
+Password:admin
