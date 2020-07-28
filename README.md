@@ -33,4 +33,4 @@ User:
 - Scheduling the appointment of patient with doctors to make it convenient for both.
 - Scheduling the services of specialized doctors
 - Adding new doctor specializations to the hospital
-- Allowing the doctor to keep track of his patient details
+- Allowing the doctor to keep track of his patient details 
